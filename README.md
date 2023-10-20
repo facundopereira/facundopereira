@@ -5,8 +5,23 @@
 
 ## Sobre Mi
 
-####
+#### Estudio Programación hace 1 año, estudio de forma autodidacta y con cursos gratuitos como "Jovenes a Programar", "FreeCodeCamp", "Coursera". Tambien estudio la carrera de "Tecnologo Informatico" por la UTU. 
+#### En las tecnologias que mas tengo conocimiento son: 
 
+ + HTML 
+ + CSS 
+ + JavaScript
+ + Boostrap
+ + Git
+
+#### Estas 3 teconologias es en las que más e trabajado, tambien tengo poco conocimiento en las siguientes teconologias pero con menos practica:
+
+ + Python 
+ + Node.Js
+ + Express 
+ + React
+
+## Portafolio[https://facundopereira.github.io/portafolio/]
 
 <!--
 **facundopereira/facundopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
