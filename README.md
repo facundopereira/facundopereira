@@ -1,5 +1,6 @@
 # Hola, Mi Nombre es Facundo Pereira
 
+![Yo](/Set%20UP.jpeg)
 
 
 ## Sobre Mi
